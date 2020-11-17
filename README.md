@@ -6,8 +6,8 @@
 My breakfast list:
 
 - rice
-- orangejuice
-- ve
+- orange juice
+- vegetable
 
 My todo list:
 
