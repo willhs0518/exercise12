@@ -7,7 +7,7 @@ my breakfast list is:
 
 - rice
 - orangejuice
-- vegetable
+- ve
 
 *Frank Jin is there*
 
@@ -15,4 +15,3 @@ My breakfast list:
 - milk
 - bread
 - egg
-
