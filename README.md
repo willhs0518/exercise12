@@ -3,11 +3,16 @@
 
 *William Huang is here*
 
-my breakfast list is:
+My breakfast list:
 
 - rice
 - orangejuice
 - vegetable
+
+My todo list:
+
+- watch tons of recordings
+
 
 *Frank Jin is there*
 
@@ -15,4 +20,5 @@ My breakfast list:
 - milk
 - bread
 - egg
+
 
